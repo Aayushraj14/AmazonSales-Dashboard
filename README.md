@@ -46,4 +46,4 @@ Monitors courier and fulfillment performance
 Supports data-driven decisions for inventory, delivery, and business strategy
 
 Dashboard preview
-![Amazon Dashboard](AmazonDashboard.png)
+![Amazon Dashboard](AmazonDAshboard.png)
